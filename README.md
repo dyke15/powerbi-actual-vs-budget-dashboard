@@ -27,12 +27,8 @@ Enable management to:
 - Certain projects show consistent negative variance requiring attention
 
 ## 📸 Dashboard Preview
-![Actual vs Budget Dashboard](screenshots/dashboard.png)
+<img width="899" height="504" alt="Screenshot 2026-01-03 223416" src="https://github.com/user-attachments/assets/c6dfffbd-ff08-462a-bee2-f0928b16efa4" />
 
-## 🚀 How to Use
-1. Download the `"Actual vs budget.pbix"` file
-2. Open with Power BI Desktop
-3. Refresh data or connect to your own dataset
 
 ## 👤 Author
 **Chukwuebuka Dike**  
